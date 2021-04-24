@@ -16,8 +16,8 @@ More details /help</i>"""
 <b><u>Available Command</b></u>
 
 * /start - <b>Bot Alive</b>
-* /help - <b>more help</b>
-* /run - <b>start forward</b>
+* /help - <b>More Help</b>
+* /run - <b>Start Forwarding</b>
 * /about - <b>About Me</b>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
