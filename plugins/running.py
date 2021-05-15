@@ -54,7 +54,7 @@ async def run(bot, message):
             pass
    # await m.delete()
     buttons = [[
-        InlineKeyboardButton('📜 Support Group', url='https://t.me/DxHelpDesk')
+        InlineKeyboardButton('📜 Support Bot', url='https://t.me/FlixHelpBot')
     ]] 
     reply_markup = InlineKeyboardMarkup(buttons)
     await m.edit(
